@@ -3,7 +3,7 @@ layout: default
 permalink: /blog/
 title: blog
 nav: true
-nav_order: 1
+nav_order: 4
 pagination:
   enabled: true
   collection: posts
@@ -178,3 +178,19 @@ pagination:
   {%- endif -%}
 
 </div>
+
+<script src="https://giscus.app/client.js"
+        data-repo="xnchu/xnchu.github.io"
+        data-repo-id="R_kgDOLAHRzA"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOLAHRzM4CcKzv"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
