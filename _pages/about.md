@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a research associate at the [Laboratory for Atmospheric and Space Physics](lasp.colorado.edu) in Boulder, CO.
+I am a research associate at the [Laboratory for Atmospheric and Space Physics](https://lasp.colorado.edu) in Boulder, CO.
 
 My area of research is space physics, using data analysis, machine learning, numerical simulation, and theoretical analysis to investigate the plasma processes in the Earth's magnetosphere.
 
