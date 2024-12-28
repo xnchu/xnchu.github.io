@@ -37,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-solar-wind",
-          title: "solar-wind",
+        },{id: "nav-real-time-solar-wind-monitor",
+          title: "Real time solar wind monitor",
           description: "Real-time visualization of solar wind parameters",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/solar-wind/";
+            window.location.href = "/rtsw/";
           },
         },{id: "post-a-post-with-image-galleries",
       
