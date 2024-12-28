@@ -20,125 +20,80 @@ async function fetchSolarWindData() {
 function processData(data, skipHeader = true) {
   const startIndex = skipHeader ? 1 : 0;
   return {
-    timestamps: data.slice(startIndex).map(row => new Date(row[0]).toLocaleTimeString()),
+    timestamps: data.slice(startIndex).map(row => new Date(row[0])),
     values: data.slice(startIndex)
   };
 }
 
 // Function to create the multi-panel solar wind chart
 function createSolarWindChart(plasmaData, magneticData) {
-  const ctx = document.getElementById('solarWindChart').getContext('2d');
+  const ctx = document.getElementById('solarWindChart');
   const processedPlasma = processData(plasmaData);
   const processedMagnetic = processData(magneticData);
+
+  // Set chart height
+  ctx.height = 800;  // Increased height to accommodate all panels
 
   return new Chart(ctx, {
     type: 'line',
     data: {
       labels: processedPlasma.timestamps,
       datasets: [
-        // Magnetic field components
+        // Panel 1: Magnetic field components
         {
           label: 'Bx (nT)',
-          data: processedMagnetic.values.map(row => row[1]),
+          data: processedMagnetic.values.map(row => ({ x: new Date(row[0]), y: row[1] })),
           borderColor: 'rgb(75, 192, 192)',
-          yAxisID: 'magnetic'
+          segment: { borderColor: ctx => ctx.p0.parsed.y > 0 ? 'rgb(75, 192, 192)' : 'rgb(75, 192, 192)' }
         },
         {
           label: 'By (nT)',
-          data: processedMagnetic.values.map(row => row[2]),
+          data: processedMagnetic.values.map(row => ({ x: new Date(row[0]), y: row[2] })),
           borderColor: 'rgb(255, 99, 132)',
-          yAxisID: 'magnetic'
+          segment: { borderColor: ctx => ctx.p0.parsed.y > 0 ? 'rgb(255, 99, 132)' : 'rgb(255, 99, 132)' }
         },
         {
           label: 'Bz (nT)',
-          data: processedMagnetic.values.map(row => row[3]),
+          data: processedMagnetic.values.map(row => ({ x: new Date(row[0]), y: row[3] })),
           borderColor: 'rgb(255, 205, 86)',
-          yAxisID: 'magnetic'
-        },
-        // Density
-        {
-          label: 'Density (n/cm³)',
-          data: processedPlasma.values.map(row => row[1]),
-          borderColor: 'rgb(153, 102, 255)',
-          yAxisID: 'density'
-        },
-        // Speed
-        {
-          label: 'Speed (km/s)',
-          data: processedPlasma.values.map(row => row[2]),
-          borderColor: 'rgb(54, 162, 235)',
-          yAxisID: 'speed'
-        },
-        // Temperature
-        {
-          label: 'Temperature (K)',
-          data: processedPlasma.values.map(row => row[3]),
-          borderColor: 'rgb(255, 159, 64)',
-          yAxisID: 'temperature'
+          segment: { borderColor: ctx => ctx.p0.parsed.y > 0 ? 'rgb(255, 205, 86)' : 'rgb(255, 205, 86)' }
         }
       ]
     },
     options: {
       responsive: true,
+      maintainAspectRatio: false,
       interaction: {
-        mode: 'index',
+        mode: 'nearest',
+        axis: 'x',
         intersect: false
+      },
+      plugins: {
+        title: {
+          display: true,
+          text: 'Solar Wind Parameters'
+        }
       },
       scales: {
         x: {
-          display: true,
+          type: 'time',
+          time: {
+            unit: 'hour',
+            displayFormats: {
+              hour: 'HH:mm'
+            }
+          },
           title: {
             display: true,
             text: 'Time (UTC)'
           }
         },
-        magnetic: {
-          position: 'left',
+        y: {
           title: {
             display: true,
-            text: 'Magnetic Field (nT)'
+            text: 'Value'
           },
-          grid: {
-            drawOnChartArea: true
-          }
-        },
-        density: {
-          position: 'left',
-          title: {
-            display: true,
-            text: 'Density (n/cm³)'
-          },
-          grid: {
-            drawOnChartArea: false
-          }
-        },
-        speed: {
-          position: 'left',
-          title: {
-            display: true,
-            text: 'Speed (km/s)'
-          },
-          grid: {
-            drawOnChartArea: false
-          }
-        },
-        temperature: {
-          position: 'left',
-          title: {
-            display: true,
-            text: 'Temperature (K)'
-          },
-          grid: {
-            drawOnChartArea: false
-          }
-        }
-      },
-      layout: {
-        padding: {
-          top: 20,
-          right: 20,
-          bottom: 20,
-          left: 20
+          beginAtZero: false
         }
       }
     }
@@ -149,12 +104,19 @@ function createSolarWindChart(plasmaData, magneticData) {
 async function initializeChart() {
   const data = await fetchSolarWindData();
   if (data) {
-    createSolarWindChart(data.plasmaData, data.magneticData);
+    const chart = createSolarWindChart(data.plasmaData, data.magneticData);
+    console.log('Chart created:', chart); // Debug log
+    console.log('Data received:', data); // Debug log
+  } else {
+    console.error('No data received');
   }
 }
 
 // Add event listener for page load
-document.addEventListener('DOMContentLoaded', initializeChart);
+document.addEventListener('DOMContentLoaded', () => {
+  console.log('DOM Content Loaded'); // Debug log
+  initializeChart();
+});
 
 // Update data every 5 minutes
 setInterval(initializeChart, 5 * 60 * 1000);

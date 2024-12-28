@@ -13,7 +13,7 @@ horizontal: false
   <div class="row">
     <div class="col-12">
       <div class="card">
-        <div class="card-body">
+        <div class="card-body" style="height: 800px;">
           <h5 class="card-title">Solar Wind Parameters</h5>
           <canvas id="solarWindChart"></canvas>
         </div>
@@ -24,6 +24,7 @@ horizontal: false
 
 <!-- Load Chart.js -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
 
 <!-- Load your custom JavaScript -->
 <script src="{{ '/assets/js/solar-wind.js' | relative_url }}"></script> 
