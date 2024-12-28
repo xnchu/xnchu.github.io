@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-group :jekyll_plugins do
+group :jekyll_plugins do    
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
@@ -27,3 +27,5 @@ group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
 end
+
+gem "faraday-retry", "~> 2.2"
