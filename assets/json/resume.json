@@ -3,8 +3,7 @@
     "name": "Xiangning Chu",
     "label": "Research Associate",
     "image": "",
-    "email": "xiangning.chu@colorado.edu",
-    "phone": "(303) xxx-xxxx",
+    "email": "xiangning.chu@colorado.edu",    
     "url": "https://xnchu.github.io",
     "summary": "A space physicist using data analysis, machine learning, numerical simulation, and theoretical analysis to investigate the plasma processes in the Earth's magnetosphere.",
     "location": {
@@ -27,10 +26,17 @@
       "name": "Laboratory for Atmospheric and Space Physics",
       "position": "Research Associate",
       "url": "https://lasp.colorado.edu",
-      "startDate": "2018-01",
+      "startDate": "2018",
       "endDate": "present",
       "summary": "Using data analysis, machine learning, numerical simulation, and theoretical analysis to investigate the plasma processes in the Earth's magnetosphere.",
       "highlights": ["Space Physics", "Plasma Physics", "Magnetosphere", "Ionosphere", "Thermosphere", "Substorms", "Geomagnetic Storms", "Radiation Belts", "Machine Learning Application for Science Discovery"]
+    },
+    {
+      "name": "University of California, Los Angeles",
+      "position": "Postdoctoral Scholar",
+      "url": "https://atmos.ucla.edu/",
+      "startDate": "2015",
+      "endDate": "2018"      
     }
   ],
   "education": [
