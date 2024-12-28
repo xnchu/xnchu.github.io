@@ -81,11 +81,17 @@ function createSolarWindChart(plasmaData, magneticData) {
             unit: 'hour',
             displayFormats: {
               hour: 'HH:mm'
-            }
+            },
+            tooltipFormat: 'MM/dd HH:mm'
           },
           title: {
             display: true,
-            text: 'Time (UTC)'
+            text: 'UTC'
+          },
+          ticks: {
+            maxRotation: 0,
+            autoSkip: true,
+            maxTicksLimit: 12
           }
         },
         y: {
