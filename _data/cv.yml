@@ -2,96 +2,71 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Xiangning Chu
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D.
+      institution: University of California, Los Angeles
+      year: 2015        
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Major
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Geophysics and Space Physics
+        - title: Dissertation
+          contents:
+            - Configuration and Generation of Substorm Current Wedge
+    - title: M.S.
+      institution: Peking University
+      year: 2009
       description:
-        - Description 1.
-        - Description 2.
+        - title: Major
+          contents:
+            - Space Physics
+    - title: B.S.
+      institution: Peking University
+      year: 2006
+      description:
+        - title: Major
+          contents:
+            - Space Physics
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Research Associate
+      institution: Laboratory for Atmospheric and Space Physics, University of Colorado Boulder
+      year: 2018 - present
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Postdoc
+      institution: Department of Atmospheric and Oceanic Sciences, University of California, Los Angeles
+      year: 2016 - 2018
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Magnetospheric substorms
+      items: 
+        - Inversion model for Substorm current wedge (SCW)
+        - Substorm onsets
+        - Solarwind-magnetosphere-ionosphere coupling
+        - Configuration and generation mechnisms of substorm current wedge
+    - title: Steve (Strong Thermal Emission Velocity Enhancement)
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Magnetospheric driver of STEVE
+        - Morphological Characteristics of STEVE
+    - title: Machine learning for science discovery
+      items: 
+        - Electron fluxes in Earth's Radiation belts
+        - Electromagnetic waves in Earth's radiation belt
+        - Coupled model of machine learning models and numerical simulations for radiation belt dynamics
+    - title: Cold plasma in Earth's plasmasphere
+      items: 
+        - Electron density and Cold ion densities in the inner magneotsphere
+        - Erosion and refilling of the plasmasphere
+        - Coupled model of machine learning models and numerical simulations for plasmaspheric dynamics
+        - Mission design for Earth's plasmasphere
+        
