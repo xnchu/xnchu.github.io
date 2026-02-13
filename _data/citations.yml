@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-06'
+  last_updated: '2026-02-13'
 papers:
   1BAsT6sAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -38,7 +38,7 @@ papers:
     title: Evidence for Co-existence of Outside-in and Inside-out Scenarios in Substorm on January 9, 2008
     year: '2008'
   1BAsT6sAAAAJ:35N4QoGY0k4C:
-    citations: 127
+    citations: 128
     title: Quantitative evaluation of radial diffusion and local acceleration processes during GEM challenge events
     year: '2018'
   1BAsT6sAAAAJ:35r97b3x0nAC:
@@ -66,7 +66,7 @@ papers:
     title: 'LIME in Local Time: The Magnetosphere Acting Impulsively'
     year: '2018'
   1BAsT6sAAAAJ:4fKUyHm3Qg0C:
-    citations: 70
+    citations: 71
     title: Relativistic electron model in the outer radiation belt using a neural network approach
     year: '2021'
   1BAsT6sAAAAJ:5Ul4iDaHHb8C:
@@ -78,7 +78,7 @@ papers:
     title: Multimodal Machine Learning for Earthquake Identification and Forecasting
     year: '2022'
   1BAsT6sAAAAJ:5ugPr518TE4C:
-    citations: 25
+    citations: 26
     title: Opening the black box of the radiation belt machine learning model
     year: '2023'
   1BAsT6sAAAAJ:70eg2SAEIzsC:
@@ -142,7 +142,7 @@ papers:
     title: Characteristics of plasmaspheric dynamics studied using machine learning models
     year: '2024'
   1BAsT6sAAAAJ:CHSYGLWDkRkC:
-    citations: 42
+    citations: 43
     title: "Optical spectra and emission altitudes of double\u2010layer STEVE: A case study"
     year: '2019'
   1BAsT6sAAAAJ:D_sINldO8mEC:
@@ -228,7 +228,7 @@ papers:
   1BAsT6sAAAAJ:L7CI7m0gUJcC:
     citations: 0
     title: 'Spatial and temporal responses of chorus and hiss waves to CME-and CIR-driven storms: insight from a machine learning model'
-    year: Unknown Year
+    year: '2025'
   1BAsT6sAAAAJ:LPZeul_q3PIC:
     citations: 0
     title: Morphological Characteristics of STEVE emissions
@@ -318,7 +318,7 @@ papers:
     title: 'The February 24, 2010 substorm: a refined view involving a pseudobreakup/expansive phase/poleward boundary intensification sequence'
     year: '2015'
   1BAsT6sAAAAJ:RYcK_YlVTxYC:
-    citations: 85
+    citations: 88
     title: "A neural network model of three\u2010dimensional dynamic electron density in the inner magnetosphere"
     year: '2017'
   1BAsT6sAAAAJ:SP6oXDckpogC:
@@ -330,7 +330,7 @@ papers:
     title: Modeling of the cold electron plasma density for radiation belt physics
     year: '2023'
   1BAsT6sAAAAJ:SeFeTyx0c_EC:
-    citations: 60
+    citations: 61
     title: Artificial neural networks for determining magnetospheric conditions
     year: '2018'
   1BAsT6sAAAAJ:TIZ-Mc8IlK0C:
@@ -438,7 +438,7 @@ papers:
     title: Temporal and spatial evolution of chorus waves modeled by an artificial neural network
     year: '2022'
   1BAsT6sAAAAJ:_FxGoFyzp5QC:
-    citations: 39
+    citations: 38
     title: "Changes in solar wind\u2013magnetosphere coupling with solar cycle, season, and time relative to stream interfaces"
     year: '2013'
   1BAsT6sAAAAJ:_Qo2XoVZTnwC:
@@ -458,7 +458,7 @@ papers:
     title: Can MHD be used to forecast substorms?
     year: '2018'
   1BAsT6sAAAAJ:a0OBvERweLwC:
-    citations: 42
+    citations: 43
     title: Identifying STEVE's magnetospheric driver using conjugate observations in the magnetosphere and on the ground
     year: '2019'
   1BAsT6sAAAAJ:abG-DnoFyZgC:
@@ -574,7 +574,7 @@ papers:
     title: Substorm current wedge composition by wedgelets
     year: '2015'
   1BAsT6sAAAAJ:hFOr9nPyWt4C:
-    citations: 87
+    citations: 89
     title: 'Solar cycle dependence of substorm occurrence and duration: Implications for onset'
     year: '2015'
   1BAsT6sAAAAJ:hMod-77fHWUC:
@@ -666,7 +666,7 @@ papers:
     title: Modeling the dynamic variability of the outer radiation belt fluxes using machine learning
     year: '2020'
   1BAsT6sAAAAJ:p__nRnzSRKYC:
-    citations: 5
+    citations: 6
     title: 'Imbalanced Regression Artificial Neural Network Model for Auroral Electrojet Indices (IRANNA): Can We Predict Strong Events?'
     year: '2025'
   1BAsT6sAAAAJ:pqnbT2bcN3wC:
@@ -710,7 +710,7 @@ papers:
     title: 'Substorm dynamics in MHD: Statistical validation tests and paths for improvement'
     year: '2022'
   1BAsT6sAAAAJ:tS2w5q8j5-wC:
-    citations: 38
+    citations: 39
     title: "Modeling the dynamic variability of sub\u2010relativistic outer radiation belt electron fluxes using machine learning"
     year: '2022'
   1BAsT6sAAAAJ:tYavs44e6CUC:
@@ -722,7 +722,7 @@ papers:
     title: The Machine Learning application to the Spatiotemporal Prediction of Equivalent Ionospheric Currents
     year: '2022'
   1BAsT6sAAAAJ:tzM49s52ZIMC:
-    citations: 3
+    citations: 4
     title: "The Response of Ionospheric Currents to External Drivers Investigated Using a Neural Network\u2010Based Model"
     year: '2023'
   1BAsT6sAAAAJ:u-x6o8ySG0sC:
@@ -730,7 +730,7 @@ papers:
     title: Westward ionospheric electric field perturbations on the dayside associated with substorm processes
     year: '2009'
   1BAsT6sAAAAJ:u5HHmVD_uO8C:
-    citations: 72
+    citations: 71
     title: THEMIS observations of substorms on 26 February 2008 initiated by magnetotail reconnection
     year: '2010'
   1BAsT6sAAAAJ:u9iWguZQMMsC:
