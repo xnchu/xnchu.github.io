@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-02-25'
 papers:
   1BAsT6sAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -318,7 +318,7 @@ papers:
     title: How whistler mode hiss waves and the plasmasphere drive the quiet decay of radiation belts electrons following a geomagnetic storm
     year: '2020'
   1BAsT6sAAAAJ:SdhP9T11ey4C:
-    citations: 22
+    citations: 23
     title: Modeling of the cold electron plasma density for radiation belt physics
     year: '2023'
   1BAsT6sAAAAJ:SeFeTyx0c_EC:
@@ -562,11 +562,11 @@ papers:
     title: 'AI-Driven Advances in Physical Insights: Exploring the Near-Earth Space Environment'
     year: '2025'
   1BAsT6sAAAAJ:hC7cP41nSMkC:
-    citations: 87
+    citations: 88
     title: Substorm current wedge composition by wedgelets
     year: '2015'
   1BAsT6sAAAAJ:hFOr9nPyWt4C:
-    citations: 88
+    citations: 89
     title: 'Solar cycle dependence of substorm occurrence and duration: Implications for onset'
     year: '2015'
   1BAsT6sAAAAJ:hMod-77fHWUC:
@@ -662,7 +662,7 @@ papers:
     title: 'Imbalanced Regression Artificial Neural Network Model for Auroral Electrojet Indices (IRANNA): Can We Predict Strong Events?'
     year: '2025'
   1BAsT6sAAAAJ:pqnbT2bcN3wC:
-    citations: 15
+    citations: 16
     title: The current system of dipolarizing flux bundles and their role as wedgelets in the substorm current wedge
     year: '2018'
   1BAsT6sAAAAJ:pyW8ca7W8N0C:
