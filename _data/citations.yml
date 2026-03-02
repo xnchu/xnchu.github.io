@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-03-02'
 papers:
   1BAsT6sAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -38,7 +38,7 @@ papers:
     title: Evidence for Co-existence of Outside-in and Inside-out Scenarios in Substorm on January 9, 2008
     year: '2008'
   1BAsT6sAAAAJ:35N4QoGY0k4C:
-    citations: 129
+    citations: 130
     title: Quantitative evaluation of radial diffusion and local acceleration processes during GEM challenge events
     year: '2018'
   1BAsT6sAAAAJ:35r97b3x0nAC:
@@ -486,7 +486,7 @@ papers:
     title: Equilibrium kinetic theory and simulations of dipolarization fronts
     year: '2018'
   1BAsT6sAAAAJ:d1gkVwhDpl0C:
-    citations: 112
+    citations: 113
     title: Characteristics of plasma flows at the inner edge of the plasma sheet
     year: '2011'
   1BAsT6sAAAAJ:dTyEYWd-f8wC:
@@ -518,7 +518,7 @@ papers:
     title: Statistical Investigation of the Erosion and Refilling of the Plasmasphere-Machine Learning Based Approach
     year: '2021'
   1BAsT6sAAAAJ:epqYDVWIO7EC:
-    citations: 8
+    citations: 9
     title: "Simulating the Earth's outer radiation belt electron fluxes and their upper limit: A unified physics\u2010based model driven by the AL index"
     year: '2024'
   1BAsT6sAAAAJ:eq2jaN3J8jMC:
@@ -602,7 +602,7 @@ papers:
     title: Relativistic electron flux model in the outer radiation belt using a neural network approach
     year: '2021'
   1BAsT6sAAAAJ:k_IJM867U9cC:
-    citations: 78
+    citations: 79
     title: The mid-latitude positive bay and the MPB index of substorm activity
     year: '2017'
   1BAsT6sAAAAJ:kzcrU_BdoSEC:
@@ -662,7 +662,7 @@ papers:
     title: 'Imbalanced Regression Artificial Neural Network Model for Auroral Electrojet Indices (IRANNA): Can We Predict Strong Events?'
     year: '2025'
   1BAsT6sAAAAJ:pqnbT2bcN3wC:
-    citations: 16
+    citations: 15
     title: The current system of dipolarizing flux bundles and their role as wedgelets in the substorm current wedge
     year: '2018'
   1BAsT6sAAAAJ:pyW8ca7W8N0C:
@@ -682,7 +682,7 @@ papers:
     title: Flow Pattern relative to the Substorm Current Wedge
     year: '2013'
   1BAsT6sAAAAJ:rO6llkc54NcC:
-    citations: 53
+    citations: 54
     title: On the generation of probabilistic forecasts from deterministic models
     year: '2019'
   1BAsT6sAAAAJ:t6usbXjVLHcC:
