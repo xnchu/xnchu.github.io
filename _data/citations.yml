@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-03-25'
 papers:
   1BAsT6sAAAAJ:-_dYPAW6P2MC:
-    citations: 0
+    citations: 1
     title: A statistical analysis of the auroral streamer current system
     year: '2023'
   1BAsT6sAAAAJ:08ZZubdj9fEC:
@@ -78,7 +78,7 @@ papers:
     title: Multimodal Machine Learning for Earthquake Identification and Forecasting
     year: '2022'
   1BAsT6sAAAAJ:5ugPr518TE4C:
-    citations: 26
+    citations: 27
     title: Opening the black box of the radiation belt machine learning model
     year: '2023'
   1BAsT6sAAAAJ:70eg2SAEIzsC:
@@ -174,7 +174,7 @@ papers:
     title: 'Characteristics of Substorm-Onset-Related and Non-substorm Earthward Fast Flows and Associated Magnetic Flux Transport: THEMIS Observations'
     year: '2022'
   1BAsT6sAAAAJ:HoB7MX3m0LUC:
-    citations: 68
+    citations: 69
     title: The midlatitude positive bay index and the statistics of substorm occurrence
     year: '2018'
   1BAsT6sAAAAJ:ILKRHgRFtOwC:
@@ -310,7 +310,7 @@ papers:
     title: 'The February 24, 2010 substorm: a refined view involving a pseudobreakup/expansive phase/poleward boundary intensification sequence'
     year: '2015'
   1BAsT6sAAAAJ:RYcK_YlVTxYC:
-    citations: 87
+    citations: 88
     title: "A neural network model of three\u2010dimensional dynamic electron density in the inner magnetosphere"
     year: '2017'
   1BAsT6sAAAAJ:SP6oXDckpogC:
@@ -422,7 +422,7 @@ papers:
     title: "Evaluating the performance of empirical models of total electron density and whistler-mode wave amplitude in the Earth\u2019s inner magnetosphere"
     year: '2023'
   1BAsT6sAAAAJ:ZuybSZzF8UAC:
-    citations: 0
+    citations: 1
     title: Comprehensive Statistical Analysis of Ionospheric and Geomagnetic Signatures Before and After Earthquakes
     year: '2022'
   1BAsT6sAAAAJ:_B80troHkn4C:
@@ -490,7 +490,7 @@ papers:
     title: Equilibrium kinetic theory and simulations of dipolarization fronts
     year: '2018'
   1BAsT6sAAAAJ:d1gkVwhDpl0C:
-    citations: 113
+    citations: 114
     title: Characteristics of plasma flows at the inner edge of the plasma sheet
     year: '2011'
   1BAsT6sAAAAJ:dTyEYWd-f8wC:
@@ -662,7 +662,7 @@ papers:
     title: Modeling the dynamic variability of the outer radiation belt fluxes using machine learning
     year: '2020'
   1BAsT6sAAAAJ:p__nRnzSRKYC:
-    citations: 6
+    citations: 7
     title: 'Imbalanced Regression Artificial Neural Network Model for Auroral Electrojet Indices (IRANNA): Can We Predict Strong Events?'
     year: '2025'
   1BAsT6sAAAAJ:pqnbT2bcN3wC:
@@ -717,6 +717,10 @@ papers:
     citations: 0
     title: The Machine Learning application to the Spatiotemporal Prediction of Equivalent Ionospheric Currents
     year: '2022'
+  1BAsT6sAAAAJ:tuHXwOkdijsC:
+    citations: 0
+    title: 'CLARE: Classification-based Regression for Electron Temperature Prediction'
+    year: '2026'
   1BAsT6sAAAAJ:tzM49s52ZIMC:
     citations: 4
     title: "The response of ionospheric currents to external drivers investigated using a neural network\u2010based model"
