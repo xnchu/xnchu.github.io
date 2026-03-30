@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-25'
+  last_updated: '2026-03-30'
 papers:
   1BAsT6sAAAAJ:-_dYPAW6P2MC:
     citations: 1
@@ -38,7 +38,7 @@ papers:
     title: Evidence for Co-existence of Outside-in and Inside-out Scenarios in Substorm on January 9, 2008
     year: '2008'
   1BAsT6sAAAAJ:35N4QoGY0k4C:
-    citations: 130
+    citations: 131
     title: Quantitative evaluation of radial diffusion and local acceleration processes during GEM challenge events
     year: '2018'
   1BAsT6sAAAAJ:35r97b3x0nAC:
@@ -254,7 +254,7 @@ papers:
     title: Current structures associated with dipolarization fronts
     year: '2013'
   1BAsT6sAAAAJ:Mojj43d5GZwC:
-    citations: 37
+    citations: 38
     title: The space physics environment data analysis system in python
     year: '2022'
   1BAsT6sAAAAJ:N5tVd3kTz84C:
@@ -570,7 +570,7 @@ papers:
     title: Substorm current wedge composition by wedgelets
     year: '2015'
   1BAsT6sAAAAJ:hFOr9nPyWt4C:
-    citations: 90
+    citations: 91
     title: 'Solar cycle dependence of substorm occurrence and duration: Implications for onset'
     year: '2015'
   1BAsT6sAAAAJ:hMod-77fHWUC:
