@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-08'
 papers:
   1BAsT6sAAAAJ:-_dYPAW6P2MC:
     citations: 1
     title: A statistical analysis of the auroral streamer current system
     year: '2023'
   1BAsT6sAAAAJ:08ZZubdj9fEC:
-    citations: 21
+    citations: 22
     title: Realistic electron diffusion rates and lifetimes due to scattering by electron holes
     year: '2021'
   1BAsT6sAAAAJ:0KyAp5RtaNEC:
@@ -18,7 +18,7 @@ papers:
     title: "PILOT: Plasma Imaging, LOcal measurement, and Tomographic experiment, a Mission Concept for Transformational Multi-Scale Observations of Plasma Dynamics in the Earth's \u2026"
     year: '2022'
   1BAsT6sAAAAJ:1sJd4Hv_s6UC:
-    citations: 11
+    citations: 12
     title: How sudden, intense energetic electron enhancements correlate with the innermost plasmapause locations under various solar wind drivers and geomagnetic conditions
     year: '2019'
   1BAsT6sAAAAJ:1yQoGdGgb4wC:
@@ -254,7 +254,7 @@ papers:
     title: Current structures associated with dipolarization fronts
     year: '2013'
   1BAsT6sAAAAJ:Mojj43d5GZwC:
-    citations: 38
+    citations: 39
     title: The space physics environment data analysis system in python
     year: '2022'
   1BAsT6sAAAAJ:N5tVd3kTz84C:
@@ -402,7 +402,7 @@ papers:
     title: Magnetotail Flow Patterns During Steady Magnetospheric Convection
     year: '2010'
   1BAsT6sAAAAJ:Y5dfb0dijaUC:
-    citations: 26
+    citations: 27
     title: Unraveling the critical geomagnetic conditions controlling the upper limit of electron fluxes in the Earth's outer radiation belt
     year: '2022'
   1BAsT6sAAAAJ:Z5m8FVwuT1cC:
@@ -758,7 +758,7 @@ papers:
     title: Accurate and Reliable Probabilistic Forecast Generated from a Deterministic Model
     year: '2018'
   1BAsT6sAAAAJ:uc_IGeMz5qoC:
-    citations: 3
+    citations: 4
     title: "Fine structure of magnetospheric magnetosonic waves: 1. Elementary rising\u2010tone emissions within individual harmonic"
     year: '2024'
   1BAsT6sAAAAJ:vDijr-p_gm4C:
@@ -770,7 +770,7 @@ papers:
     title: Ionospheric electron density and conductance changes in the auroral zone during substorms
     year: '2021'
   1BAsT6sAAAAJ:vV6vV6tmYwMC:
-    citations: 46
+    citations: 47
     title: A census of plasma waves and structures associated with an injection front in the inner magnetosphere
     year: '2018'
   1BAsT6sAAAAJ:vbGhcppDl1QC:
