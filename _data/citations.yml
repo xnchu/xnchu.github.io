@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-04-22'
 papers:
   1BAsT6sAAAAJ:-_dYPAW6P2MC:
     citations: 1
@@ -66,7 +66,7 @@ papers:
     title: 'LIME in Local Time: The Magnetosphere Acting Impulsively'
     year: '2018'
   1BAsT6sAAAAJ:4fKUyHm3Qg0C:
-    citations: 72
+    citations: 74
     title: Relativistic electron model in the outer radiation belt using a neural network approach
     year: '2021'
   1BAsT6sAAAAJ:5Ul4iDaHHb8C:
@@ -78,7 +78,7 @@ papers:
     title: Multimodal Machine Learning for Earthquake Identification and Forecasting
     year: '2022'
   1BAsT6sAAAAJ:5ugPr518TE4C:
-    citations: 27
+    citations: 29
     title: Opening the black box of the radiation belt machine learning model
     year: '2023'
   1BAsT6sAAAAJ:70eg2SAEIzsC:
@@ -174,7 +174,7 @@ papers:
     title: 'Characteristics of Substorm-Onset-Related and Non-substorm Earthward Fast Flows and Associated Magnetic Flux Transport: THEMIS Observations'
     year: '2022'
   1BAsT6sAAAAJ:HoB7MX3m0LUC:
-    citations: 69
+    citations: 70
     title: The midlatitude positive bay index and the statistics of substorm occurrence
     year: '2018'
   1BAsT6sAAAAJ:ILKRHgRFtOwC:
@@ -194,7 +194,7 @@ papers:
     title: 'Investigation of the response of the ionospheric current to upstream solar wind and magnetospheric activity: a neural network approach'
     year: '2021'
   1BAsT6sAAAAJ:JQOojiI6XY0C:
-    citations: 11
+    citations: 12
     title: Modeling ring current proton fluxes using artificial neural network and Van Allen Probe measurements
     year: '2023'
   1BAsT6sAAAAJ:JV2RwH3_ST0C:
@@ -254,7 +254,7 @@ papers:
     title: Current structures associated with dipolarization fronts
     year: '2013'
   1BAsT6sAAAAJ:Mojj43d5GZwC:
-    citations: 39
+    citations: 40
     title: The space physics environment data analysis system in python
     year: '2022'
   1BAsT6sAAAAJ:N5tVd3kTz84C:
@@ -310,7 +310,7 @@ papers:
     title: 'The February 24, 2010 substorm: a refined view involving a pseudobreakup/expansive phase/poleward boundary intensification sequence'
     year: '2015'
   1BAsT6sAAAAJ:RYcK_YlVTxYC:
-    citations: 88
+    citations: 89
     title: "A neural network model of three\u2010dimensional dynamic electron density in the inner magnetosphere"
     year: '2017'
   1BAsT6sAAAAJ:SP6oXDckpogC:
@@ -410,7 +410,7 @@ papers:
     title: Statistical Analysis of Hiss Wave Evolution during Substorms
     year: '2024'
   1BAsT6sAAAAJ:ZHo1McVdvXMC:
-    citations: 53
+    citations: 54
     title: Variation in plasmaspheric hiss wave power with plasma density
     year: '2018'
   1BAsT6sAAAAJ:ZeXyd9-uunAC:
@@ -450,7 +450,7 @@ papers:
     title: Can MHD be used to forecast substorms?
     year: '2018'
   1BAsT6sAAAAJ:a0OBvERweLwC:
-    citations: 43
+    citations: 46
     title: Identifying STEVE's magnetospheric driver using conjugate observations in the magnetosphere and on the ground
     year: '2019'
   1BAsT6sAAAAJ:abG-DnoFyZgC:
@@ -522,7 +522,7 @@ papers:
     title: Statistical Investigation of the Erosion and Refilling of the Plasmasphere-Machine Learning Based Approach
     year: '2021'
   1BAsT6sAAAAJ:epqYDVWIO7EC:
-    citations: 9
+    citations: 10
     title: "Simulating the Earth's outer radiation belt electron fluxes and their upper limit: A unified physics\u2010based model driven by the AL index"
     year: '2024'
   1BAsT6sAAAAJ:eq2jaN3J8jMC:
@@ -566,7 +566,7 @@ papers:
     title: 'AI-Driven Advances in Physical Insights: Exploring the Near-Earth Space Environment'
     year: '2025'
   1BAsT6sAAAAJ:hC7cP41nSMkC:
-    citations: 89
+    citations: 90
     title: Substorm current wedge composition by wedgelets
     year: '2015'
   1BAsT6sAAAAJ:hFOr9nPyWt4C:
@@ -606,7 +606,7 @@ papers:
     title: Relativistic electron flux model in the outer radiation belt using a neural network approach
     year: '2021'
   1BAsT6sAAAAJ:k_IJM867U9cC:
-    citations: 81
+    citations: 82
     title: The mid-latitude positive bay and the MPB index of substorm activity
     year: '2017'
   1BAsT6sAAAAJ:kzcrU_BdoSEC:
@@ -686,7 +686,7 @@ papers:
     title: Flow Pattern relative to the Substorm Current Wedge
     year: '2013'
   1BAsT6sAAAAJ:rO6llkc54NcC:
-    citations: 55
+    citations: 56
     title: On the generation of probabilistic forecasts from deterministic models
     year: '2019'
   1BAsT6sAAAAJ:t6usbXjVLHcC:
@@ -706,7 +706,7 @@ papers:
     title: 'Substorm dynamics in MHD: Statistical validation tests and paths for improvement'
     year: '2021'
   1BAsT6sAAAAJ:tS2w5q8j5-wC:
-    citations: 40
+    citations: 41
     title: "Modeling the dynamic variability of sub\u2010relativistic outer radiation belt electron fluxes using machine learning"
     year: '2022'
   1BAsT6sAAAAJ:tYavs44e6CUC:
