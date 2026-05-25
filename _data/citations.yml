@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-05-25'
 papers:
   1BAsT6sAAAAJ:-_dYPAW6P2MC:
     citations: 1
@@ -66,7 +66,7 @@ papers:
     title: 'LIME in Local Time: The Magnetosphere Acting Impulsively'
     year: '2018'
   1BAsT6sAAAAJ:4fKUyHm3Qg0C:
-    citations: 76
+    citations: 77
     title: Relativistic electron model in the outer radiation belt using a neural network approach
     year: '2021'
   1BAsT6sAAAAJ:5Ul4iDaHHb8C:
@@ -182,7 +182,7 @@ papers:
     title: Innovative Integration of Deep Learning and Physics-Based Models for Simulating Global Electron Precipitation Driven by Whistler-mode Waves
     year: Unknown Year
   1BAsT6sAAAAJ:IWHjjKOFINEC:
-    citations: 73
+    citations: 74
     title: An optimum solar wind coupling function for the AL index
     year: '2015'
   1BAsT6sAAAAJ:IjCSPb-OGe4C:
@@ -454,7 +454,7 @@ papers:
     title: Can MHD be used to forecast substorms?
     year: '2018'
   1BAsT6sAAAAJ:a0OBvERweLwC:
-    citations: 45
+    citations: 46
     title: Identifying STEVE's magnetospheric driver using conjugate observations in the magnetosphere and on the ground
     year: '2019'
   1BAsT6sAAAAJ:abG-DnoFyZgC:
@@ -730,7 +730,7 @@ papers:
     title: "The response of ionospheric currents to external drivers investigated using a neural network\u2010based model"
     year: '2023'
   1BAsT6sAAAAJ:u-x6o8ySG0sC:
-    citations: 64
+    citations: 65
     title: Westward ionospheric electric field perturbations on the dayside associated with substorm processes
     year: '2009'
   1BAsT6sAAAAJ:u5HHmVD_uO8C:
