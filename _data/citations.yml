@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-08-07'
 papers:
   1BAsT6sAAAAJ:-_dYPAW6P2MC:
     citations: 1
     title: A statistical analysis of the auroral streamer current system
     year: '2023'
   1BAsT6sAAAAJ:08ZZubdj9fEC:
-    citations: 25
+    citations: 26
     title: Realistic electron diffusion rates and lifetimes due to scattering by electron holes
     year: '2021'
   1BAsT6sAAAAJ:0KyAp5RtaNEC:
@@ -54,7 +54,7 @@ papers:
     title: Solar Cycle Variations in the Response of the Magnetosphere to the Solar Wind
     year: '2012'
   1BAsT6sAAAAJ:4JMBOYKVnBMC:
-    citations: 14
+    citations: 15
     title: Configuration and generation of substorm current wedge
     year: '2015'
   1BAsT6sAAAAJ:4MWp96NkSFoC:
@@ -66,7 +66,7 @@ papers:
     title: 'LIME in Local Time: The Magnetosphere Acting Impulsively'
     year: '2018'
   1BAsT6sAAAAJ:4fKUyHm3Qg0C:
-    citations: 79
+    citations: 82
     title: Relativistic electron model in the outer radiation belt using a neural network approach
     year: '2021'
   1BAsT6sAAAAJ:5Ul4iDaHHb8C:
@@ -78,7 +78,7 @@ papers:
     title: Multimodal Machine Learning for Earthquake Identification and Forecasting
     year: '2022'
   1BAsT6sAAAAJ:5ugPr518TE4C:
-    citations: 35
+    citations: 37
     title: Opening the black box of the radiation belt machine learning model
     year: '2023'
   1BAsT6sAAAAJ:70eg2SAEIzsC:
@@ -118,7 +118,7 @@ papers:
     title: Solar wind driving of substorms in different phases of the solar cycle
     year: '2011'
   1BAsT6sAAAAJ:AXPGKjj_ei8C:
-    citations: 10
+    citations: 11
     title: "Magnetosphere\u2010ionosphere coupling between north\u2010south propagating streamers and high\u2010speed earthward flows"
     year: '2022'
   1BAsT6sAAAAJ:AvfA0Oy_GE0C:
@@ -138,7 +138,7 @@ papers:
     title: Characteristics of plasmaspheric dynamics studied using machine learning models
     year: '2024'
   1BAsT6sAAAAJ:CHSYGLWDkRkC:
-    citations: 45
+    citations: 46
     title: "Optical spectra and emission altitudes of double\u2010layer STEVE: A case study"
     year: '2019'
   1BAsT6sAAAAJ:D_sINldO8mEC:
@@ -162,7 +162,7 @@ papers:
     title: Dynamics of Plasmaspheric Ions Modeled by a Neural Network
     year: '2022'
   1BAsT6sAAAAJ:GnPB-g6toBAC:
-    citations: 56
+    citations: 57
     title: Erosion and refilling of the plasmasphere during a geomagnetic storm modeled by a neural network
     year: '2017'
   1BAsT6sAAAAJ:HDshCWvjkbEC:
@@ -174,15 +174,15 @@ papers:
     title: 'Characteristics of Substorm-Onset-Related and Non-substorm Earthward Fast Flows and Associated Magnetic Flux Transport: THEMIS Observations'
     year: '2022'
   1BAsT6sAAAAJ:HoB7MX3m0LUC:
-    citations: 74
+    citations: 76
     title: The midlatitude positive bay index and the statistics of substorm occurrence
     year: '2018'
   1BAsT6sAAAAJ:ILKRHgRFtOwC:
     citations: 0
     title: Innovative Integration of Deep Learning and Physics-Based Models for Simulating Global Electron Precipitation Driven by Whistler-mode Waves
-    year: Unknown Year
+    year: '2025'
   1BAsT6sAAAAJ:IWHjjKOFINEC:
-    citations: 74
+    citations: 73
     title: An optimum solar wind coupling function for the AL index
     year: '2015'
   1BAsT6sAAAAJ:IjCSPb-OGe4C:
@@ -194,7 +194,7 @@ papers:
     title: 'Investigation of the response of the ionospheric current to upstream solar wind and magnetospheric activity: a neural network approach'
     year: '2021'
   1BAsT6sAAAAJ:JQOojiI6XY0C:
-    citations: 13
+    citations: 15
     title: Modeling ring current proton fluxes using artificial neural network and Van Allen Probe measurements
     year: '2023'
   1BAsT6sAAAAJ:JV2RwH3_ST0C:
@@ -203,15 +203,15 @@ papers:
     year: '2015'
   1BAsT6sAAAAJ:J_g5lzvAfSwC:
     citations: 0
-    title: Relation of field-aligned currents measured by AMPERE project to solar wind and substorms
+    title: Relation of field-aligned currents measured by AMPERE project to solar wind and substorms (165387)
     year: '2016'
   1BAsT6sAAAAJ:K3LRdlH-MEoC:
     citations: 7
     title: "Characteristics of substorm\u2010onset\u2010related and nonsubstorm earthward fast flows and associated magnetic flux transport: THEMIS observations"
     year: '2021'
   1BAsT6sAAAAJ:KUbvn5osdkgC:
-    citations: 3
-    title: "The Temperature Anisotropy and Helium Abundance Features of Alfv\xE9nic Slow Solar Wind Observed by Parker Solar Probe, Helios, and Wind Missions"
+    citations: 4
+    title: "The temperature anisotropy and helium abundance features of Alfv\xE9nic slow solar wind observed by parker solar probe, helios, and wind missions"
     year: '2025'
   1BAsT6sAAAAJ:KxtntwgDAa4C:
     citations: 0
@@ -246,9 +246,13 @@ papers:
     title: Analysis of a Prototypical Substorm with Conjugate Ground Magnetic Data
     year: '2015'
   1BAsT6sAAAAJ:M3ejUd6NZC8C:
-    citations: 51
+    citations: 52
     title: Development and validation of inversion technique for substorm current wedge using ground magnetic field data
     year: '2014'
+  1BAsT6sAAAAJ:M7yex6snE4oC:
+    citations: 0
+    title: Applying Machine Learning to Explore Global Magnetic Field Distributions at Mars
+    year: '2025'
   1BAsT6sAAAAJ:ML0RJ9NH7IQC:
     citations: 0
     title: Machine Learning for Understanding Mars Global Magnetic Field Distributions
@@ -258,11 +262,11 @@ papers:
     title: 'Predicting near-earth space environment: new perspective and capabilities in the AI age'
     year: '2026'
   1BAsT6sAAAAJ:MXK_kJrjxJIC:
-    citations: 76
+    citations: 78
     title: Current structures associated with dipolarization fronts
     year: '2013'
   1BAsT6sAAAAJ:Mojj43d5GZwC:
-    citations: 41
+    citations: 45
     title: The space physics environment data analysis system in python
     year: '2022'
   1BAsT6sAAAAJ:N5tVd3kTz84C:
@@ -270,7 +274,7 @@ papers:
     title: "USNC\u2013URSI would like to thank the following Special Session Organizers: Mohammad Al\u2013Khaldi Oleksiy Agapitov Bill Amataucci"
     year: Unknown Year
   1BAsT6sAAAAJ:NJ774b8OgUMC:
-    citations: 19
+    citations: 20
     title: Machine learning interpretability of outer radiation belt enhancement and depletion events
     year: '2024'
   1BAsT6sAAAAJ:NaGl4SEjCO4C:
@@ -302,7 +306,7 @@ papers:
     title: On Understanding the Dynamics of Energetic Electrons in the Inner Magnetosphere
     year: '2022'
   1BAsT6sAAAAJ:QIV2ME_5wuYC:
-    citations: 24
+    citations: 25
     title: Electric currents of a substorm current wedge on 24 February 2010
     year: '2014'
   1BAsT6sAAAAJ:R3hNpaxXUhUC:
@@ -318,11 +322,11 @@ papers:
     title: 'The February 24, 2010 substorm: a refined view involving a pseudobreakup/expansive phase/poleward boundary intensification sequence'
     year: '2015'
   1BAsT6sAAAAJ:RYcK_YlVTxYC:
-    citations: 91
+    citations: 92
     title: "A neural network model of three\u2010dimensional dynamic electron density in the inner magnetosphere"
     year: '2017'
   1BAsT6sAAAAJ:SP6oXDckpogC:
-    citations: 13
+    citations: 14
     title: How whistler mode hiss waves and the plasmasphere drive the quiet decay of radiation belts electrons following a geomagnetic storm
     year: '2020'
   1BAsT6sAAAAJ:SdhP9T11ey4C:
@@ -350,7 +354,7 @@ papers:
     title: Multimodal Heliophysical/Geophysical Machine Learning Models for Earthquake Identification and Forecasting
     year: '2022'
   1BAsT6sAAAAJ:URolC5Kub84C:
-    citations: 14
+    citations: 15
     title: "Imbalanced regressive neural network model for whistler\u2010mode hiss waves: Spatial and temporal evolution"
     year: '2024'
   1BAsT6sAAAAJ:UeHWp8X0CEIC:
@@ -389,6 +393,10 @@ papers:
     citations: 0
     title: Machine learning based reconstruction and prediction of radiation belt fluxes
     year: '2022'
+  1BAsT6sAAAAJ:WZBGuue-350C:
+    citations: 0
+    title: Electron Temperature Gradients Regulate the Duration of Two-Stage Plasmasphere Refilling
+    year: '2026'
   1BAsT6sAAAAJ:WbkHhVStYXYC:
     citations: 6
     title: 'Magnetotail flux accumulation leads to substorm current wedge formation: A case study'
@@ -426,27 +434,27 @@ papers:
     title: Variation in plasmaspheric hiss wave power with plasma density
     year: '2018'
   1BAsT6sAAAAJ:ZeXyd9-uunAC:
-    citations: 29
+    citations: 28
     title: Magnetic mapping effects of substorm currents leading to auroral poleward expansion and equatorward retreat
     year: '2015'
   1BAsT6sAAAAJ:ZfRJV9d4-WMC:
-    citations: 9
+    citations: 10
     title: "Evaluating the performance of empirical models of total electron density and whistler-mode wave amplitude in the Earth\u2019s inner magnetosphere"
     year: '2023'
   1BAsT6sAAAAJ:ZuybSZzF8UAC:
     citations: 1
-    title: Comprehensive Statistical Analysis of Ionospheric and Geomagnetic Signatures Before and After Earthquakes
+    title: Comprehensive statistical analysis of ionospheric and geomagnetic signatures before and after earthquakes
     year: '2022'
   1BAsT6sAAAAJ:_B80troHkn4C:
     citations: 0
     title: Temporal and spatial evolution of chorus waves modeled by an artificial neural network
     year: '2022'
   1BAsT6sAAAAJ:_FxGoFyzp5QC:
-    citations: 38
+    citations: 37
     title: "Changes in solar wind\u2013magnetosphere coupling with solar cycle, season, and time relative to stream interfaces"
     year: '2013'
   1BAsT6sAAAAJ:_Qo2XoVZTnwC:
-    citations: 52
+    citations: 48
     title: A physical explanation for the magnetic decrease ahead of dipolarization fronts
     year: '2015'
   1BAsT6sAAAAJ:_Re3VWB3Y0AC:
@@ -462,7 +470,7 @@ papers:
     title: Can MHD be used to forecast substorms?
     year: '2018'
   1BAsT6sAAAAJ:a0OBvERweLwC:
-    citations: 46
+    citations: 51
     title: Identifying STEVE's magnetospheric driver using conjugate observations in the magnetosphere and on the ground
     year: '2019'
   1BAsT6sAAAAJ:abG-DnoFyZgC:
@@ -494,7 +502,7 @@ papers:
     title: Coherently modulated whistler mode waves simultaneously observed over unexpectedly large spatial scales
     year: '2017'
   1BAsT6sAAAAJ:bnK-pcrLprsC:
-    citations: 20
+    citations: 23
     title: Application of recurrent neural network to modeling Earth's global electron density
     year: '2022'
   1BAsT6sAAAAJ:cFHS6HbyZ2cC:
@@ -502,7 +510,7 @@ papers:
     title: Equilibrium kinetic theory and simulations of dipolarization fronts
     year: '2018'
   1BAsT6sAAAAJ:d1gkVwhDpl0C:
-    citations: 118
+    citations: 120
     title: Characteristics of plasma flows at the inner edge of the plasma sheet
     year: '2011'
   1BAsT6sAAAAJ:dTyEYWd-f8wC:
@@ -526,7 +534,7 @@ papers:
     title: "\u2018Follow the mass\u2019: the Science Case for Transformational Multi-scale Observations of Mass and Energy Flow Dynamics in Earth\u2019s Magnetosphere"
     year: '2022'
   1BAsT6sAAAAJ:eQOLeE2rZwMC:
-    citations: 31
+    citations: 30
     title: Necessity of substorm expansions in the initiation of steady magnetospheric convection
     year: '2012'
   1BAsT6sAAAAJ:eflP2zaiRacC:
@@ -542,7 +550,7 @@ papers:
     title: The evolution and propagation of chorus waves by a machine learning-based model
     year: '2023'
   1BAsT6sAAAAJ:evX43VCCuoAC:
-    citations: 13
+    citations: 16
     title: 'Distribution and evolution of chorus waves modeled by a neural network: The importance of imbalanced regression'
     year: '2023'
   1BAsT6sAAAAJ:f2IySw72cVMC:
@@ -572,17 +580,17 @@ papers:
   1BAsT6sAAAAJ:geHnlv5EZngC:
     citations: 0
     title: Electron density and conductance in the auroral ionosphere during substorms. Influence of solar wind and plasma sheet state.
-    year: '2022'
+    year: '2021'
   1BAsT6sAAAAJ:gsN89kCJA0AC:
     citations: 0
     title: 'AI-Driven Advances in Physical Insights: Exploring the Near-Earth Space Environment'
     year: '2025'
   1BAsT6sAAAAJ:hC7cP41nSMkC:
-    citations: 94
+    citations: 97
     title: Substorm current wedge composition by wedgelets
     year: '2015'
   1BAsT6sAAAAJ:hFOr9nPyWt4C:
-    citations: 92
+    citations: 94
     title: 'Solar cycle dependence of substorm occurrence and duration: Implications for onset'
     year: '2015'
   1BAsT6sAAAAJ:hMod-77fHWUC:
@@ -613,14 +621,22 @@ papers:
     citations: 0
     title: Application of the Midlatitude Positive Bay Index (MPB) to Substorm Research
     year: '2023'
+  1BAsT6sAAAAJ:k8Z6L05lTy4C:
+    citations: 0
+    title: 'Various Factors that Impact Plasmasphere Refilling: Numerical Experiments'
+    year: '2025'
   1BAsT6sAAAAJ:kRWSkSYxWN8C:
     citations: 0
     title: Relativistic electron flux model in the outer radiation belt using a neural network approach
     year: '2021'
   1BAsT6sAAAAJ:k_IJM867U9cC:
-    citations: 83
+    citations: 85
     title: The mid-latitude positive bay and the MPB index of substorm activity
     year: '2017'
+  1BAsT6sAAAAJ:kz9GbA2Ns4gC:
+    citations: 0
+    title: Machine-Learning Reconstruction and Interpretation of Radiation Belt Enhancement and Depletion Events
+    year: '2025'
   1BAsT6sAAAAJ:kzcrU_BdoSEC:
     citations: 0
     title: Neural network based reconstruction of inner magnetospheric density, waves, and energetic electron fluxes
@@ -665,6 +681,10 @@ papers:
     citations: 0
     title: Coherent Whistler Mode Waves Simultaneously Observed Over Unexpectedly Large Spatial Scales
     year: '2016'
+  1BAsT6sAAAAJ:oNZyr7d5Mn4C:
+    citations: 0
+    title: Numerical Experiments Studying Impacts on Plasmasphere Refilling
+    year: '2025'
   1BAsT6sAAAAJ:olpn-zPbct0C:
     citations: 0
     title: Automatic discovery of the equations governing radiation belt dynamics
@@ -674,7 +694,7 @@ papers:
     title: Modeling the dynamic variability of the outer radiation belt fluxes using machine learning
     year: '2020'
   1BAsT6sAAAAJ:p__nRnzSRKYC:
-    citations: 10
+    citations: 12
     title: 'Imbalanced Regression Artificial Neural Network Model for Auroral Electrojet Indices (IRANNA): Can We Predict Strong Events?'
     year: '2025'
   1BAsT6sAAAAJ:pqnbT2bcN3wC:
@@ -710,7 +730,7 @@ papers:
     title: A Statistical Analysis of the Auroral Streamer Currents
     year: '2023'
   1BAsT6sAAAAJ:tKAzc9rXhukC:
-    citations: 7
+    citations: 9
     title: Deep learning model of hiss waves in the plasmasphere and plumes and their effects on radiation belt electrons
     year: '2023'
   1BAsT6sAAAAJ:tOudhMTPpwUC:
@@ -718,7 +738,7 @@ papers:
     title: 'Substorm dynamics in MHD: Statistical validation tests and paths for improvement'
     year: '2021'
   1BAsT6sAAAAJ:tS2w5q8j5-wC:
-    citations: 43
+    citations: 44
     title: "Modeling the dynamic variability of sub\u2010relativistic outer radiation belt electron fluxes using machine learning"
     year: '2022'
   1BAsT6sAAAAJ:tYavs44e6CUC:
@@ -742,11 +762,11 @@ papers:
     title: Westward ionospheric electric field perturbations on the dayside associated with substorm processes
     year: '2009'
   1BAsT6sAAAAJ:u5HHmVD_uO8C:
-    citations: 76
+    citations: 73
     title: THEMIS observations of substorms on 26 February 2008 initiated by magnetotail reconnection
     year: '2010'
   1BAsT6sAAAAJ:u9iWguZQMMsC:
-    citations: 7
+    citations: 9
     title: Morphological characteristics of strong thermal emission velocity enhancement emissions
     year: '2020'
   1BAsT6sAAAAJ:uJ-U7cs_P_0C:
@@ -774,7 +794,7 @@ papers:
     title: "Fine structure of magnetospheric magnetosonic waves: 1. Elementary rising\u2010tone emissions within individual harmonic"
     year: '2024'
   1BAsT6sAAAAJ:vDijr-p_gm4C:
-    citations: 1
+    citations: 3
     title: 'Modeling global electron precipitation driven by whistler mode waves: Integrating physical and deep learning approaches'
     year: '2024'
   1BAsT6sAAAAJ:vRqMK49ujn8C:
@@ -782,7 +802,7 @@ papers:
     title: Ionospheric electron density and conductance changes in the auroral zone during substorms
     year: '2021'
   1BAsT6sAAAAJ:vV6vV6tmYwMC:
-    citations: 49
+    citations: 50
     title: A census of plasma waves and structures associated with an injection front in the inner magnetosphere
     year: '2018'
   1BAsT6sAAAAJ:vbGhcppDl1QC:
