@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-24'
 papers:
   1BAsT6sAAAAJ:-_dYPAW6P2MC:
     citations: 1
@@ -66,7 +66,7 @@ papers:
     title: 'LIME in Local Time: The Magnetosphere Acting Impulsively'
     year: '2018'
   1BAsT6sAAAAJ:4fKUyHm3Qg0C:
-    citations: 82
+    citations: 83
     title: Relativistic electron model in the outer radiation belt using a neural network approach
     year: '2021'
   1BAsT6sAAAAJ:5Ul4iDaHHb8C:
@@ -182,7 +182,7 @@ papers:
     title: Innovative Integration of Deep Learning and Physics-Based Models for Simulating Global Electron Precipitation Driven by Whistler-mode Waves
     year: '2025'
   1BAsT6sAAAAJ:IWHjjKOFINEC:
-    citations: 73
+    citations: 74
     title: An optimum solar wind coupling function for the AL index
     year: '2015'
   1BAsT6sAAAAJ:IjCSPb-OGe4C:
@@ -266,7 +266,7 @@ papers:
     title: Current structures associated with dipolarization fronts
     year: '2013'
   1BAsT6sAAAAJ:Mojj43d5GZwC:
-    citations: 45
+    citations: 48
     title: The space physics environment data analysis system in python
     year: '2022'
   1BAsT6sAAAAJ:N5tVd3kTz84C:
@@ -322,7 +322,7 @@ papers:
     title: 'The February 24, 2010 substorm: a refined view involving a pseudobreakup/expansive phase/poleward boundary intensification sequence'
     year: '2015'
   1BAsT6sAAAAJ:RYcK_YlVTxYC:
-    citations: 92
+    citations: 93
     title: "A neural network model of three\u2010dimensional dynamic electron density in the inner magnetosphere"
     year: '2017'
   1BAsT6sAAAAJ:SP6oXDckpogC:
@@ -330,7 +330,7 @@ papers:
     title: How whistler mode hiss waves and the plasmasphere drive the quiet decay of radiation belts electrons following a geomagnetic storm
     year: '2020'
   1BAsT6sAAAAJ:SdhP9T11ey4C:
-    citations: 26
+    citations: 28
     title: Modeling of the cold electron plasma density for radiation belt physics
     year: '2023'
   1BAsT6sAAAAJ:SeFeTyx0c_EC:
@@ -422,7 +422,7 @@ papers:
     title: Magnetotail Flow Patterns During Steady Magnetospheric Convection
     year: '2010'
   1BAsT6sAAAAJ:Y5dfb0dijaUC:
-    citations: 28
+    citations: 29
     title: Unraveling the critical geomagnetic conditions controlling the upper limit of electron fluxes in the Earth's outer radiation belt
     year: '2022'
   1BAsT6sAAAAJ:Z5m8FVwuT1cC:
@@ -450,7 +450,7 @@ papers:
     title: Temporal and spatial evolution of chorus waves modeled by an artificial neural network
     year: '2022'
   1BAsT6sAAAAJ:_FxGoFyzp5QC:
-    citations: 37
+    citations: 38
     title: "Changes in solar wind\u2013magnetosphere coupling with solar cycle, season, and time relative to stream interfaces"
     year: '2013'
   1BAsT6sAAAAJ:_Qo2XoVZTnwC:
@@ -502,7 +502,7 @@ papers:
     title: Coherently modulated whistler mode waves simultaneously observed over unexpectedly large spatial scales
     year: '2017'
   1BAsT6sAAAAJ:bnK-pcrLprsC:
-    citations: 23
+    citations: 25
     title: Application of recurrent neural network to modeling Earth's global electron density
     year: '2022'
   1BAsT6sAAAAJ:cFHS6HbyZ2cC:
@@ -534,7 +534,7 @@ papers:
     title: "\u2018Follow the mass\u2019: the Science Case for Transformational Multi-scale Observations of Mass and Energy Flow Dynamics in Earth\u2019s Magnetosphere"
     year: '2022'
   1BAsT6sAAAAJ:eQOLeE2rZwMC:
-    citations: 30
+    citations: 31
     title: Necessity of substorm expansions in the initiation of steady magnetospheric convection
     year: '2012'
   1BAsT6sAAAAJ:eflP2zaiRacC:
@@ -694,7 +694,7 @@ papers:
     title: Modeling the dynamic variability of the outer radiation belt fluxes using machine learning
     year: '2020'
   1BAsT6sAAAAJ:p__nRnzSRKYC:
-    citations: 12
+    citations: 13
     title: 'Imbalanced Regression Artificial Neural Network Model for Auroral Electrojet Indices (IRANNA): Can We Predict Strong Events?'
     year: '2025'
   1BAsT6sAAAAJ:pqnbT2bcN3wC:
@@ -738,7 +738,7 @@ papers:
     title: 'Substorm dynamics in MHD: Statistical validation tests and paths for improvement'
     year: '2021'
   1BAsT6sAAAAJ:tS2w5q8j5-wC:
-    citations: 44
+    citations: 45
     title: "Modeling the dynamic variability of sub\u2010relativistic outer radiation belt electron fluxes using machine learning"
     year: '2022'
   1BAsT6sAAAAJ:tYavs44e6CUC:
@@ -790,7 +790,7 @@ papers:
     title: Accurate and Reliable Probabilistic Forecast Generated from a Deterministic Model
     year: '2018'
   1BAsT6sAAAAJ:uc_IGeMz5qoC:
-    citations: 6
+    citations: 7
     title: "Fine structure of magnetospheric magnetosonic waves: 1. Elementary rising\u2010tone emissions within individual harmonic"
     year: '2024'
   1BAsT6sAAAAJ:vDijr-p_gm4C:
@@ -806,7 +806,7 @@ papers:
     title: A census of plasma waves and structures associated with an injection front in the inner magnetosphere
     year: '2018'
   1BAsT6sAAAAJ:vbGhcppDl1QC:
-    citations: 2
+    citations: 3
     title: A superposed epoch analysis of two stage refilling in the plasmasphere
     year: '2025'
   1BAsT6sAAAAJ:xtRiw3GOFMkC:
