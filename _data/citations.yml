@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-26'
 papers:
   1BAsT6sAAAAJ:-_dYPAW6P2MC:
     citations: 1
@@ -354,7 +354,7 @@ papers:
     title: Multimodal Heliophysical/Geophysical Machine Learning Models for Earthquake Identification and Forecasting
     year: '2022'
   1BAsT6sAAAAJ:URolC5Kub84C:
-    citations: 15
+    citations: 16
     title: "Imbalanced regressive neural network model for whistler\u2010mode hiss waves: Spatial and temporal evolution"
     year: '2024'
   1BAsT6sAAAAJ:UeHWp8X0CEIC:
@@ -550,7 +550,7 @@ papers:
     title: The evolution and propagation of chorus waves by a machine learning-based model
     year: '2023'
   1BAsT6sAAAAJ:evX43VCCuoAC:
-    citations: 16
+    citations: 17
     title: 'Distribution and evolution of chorus waves modeled by a neural network: The importance of imbalanced regression'
     year: '2023'
   1BAsT6sAAAAJ:f2IySw72cVMC:
