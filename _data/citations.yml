@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-26'
+  last_updated: '2026-08-31'
 papers:
   1BAsT6sAAAAJ:-_dYPAW6P2MC:
     citations: 1
@@ -174,7 +174,7 @@ papers:
     title: 'Characteristics of Substorm-Onset-Related and Non-substorm Earthward Fast Flows and Associated Magnetic Flux Transport: THEMIS Observations'
     year: '2022'
   1BAsT6sAAAAJ:HoB7MX3m0LUC:
-    citations: 76
+    citations: 77
     title: The midlatitude positive bay index and the statistics of substorm occurrence
     year: '2018'
   1BAsT6sAAAAJ:ILKRHgRFtOwC:
@@ -246,7 +246,7 @@ papers:
     title: Analysis of a Prototypical Substorm with Conjugate Ground Magnetic Data
     year: '2015'
   1BAsT6sAAAAJ:M3ejUd6NZC8C:
-    citations: 52
+    citations: 53
     title: Development and validation of inversion technique for substorm current wedge using ground magnetic field data
     year: '2014'
   1BAsT6sAAAAJ:M7yex6snE4oC:
@@ -590,11 +590,11 @@ papers:
     title: Substorm current wedge composition by wedgelets
     year: '2015'
   1BAsT6sAAAAJ:hFOr9nPyWt4C:
-    citations: 94
+    citations: 95
     title: 'Solar cycle dependence of substorm occurrence and duration: Implications for onset'
     year: '2015'
   1BAsT6sAAAAJ:hMod-77fHWUC:
-    citations: 8
+    citations: 9
     title: "Effects of solar wind ultralow\u2010frequency fluctuations on plasma sheet electron temperature: Regression analysis with support vector machine"
     year: '2017'
   1BAsT6sAAAAJ:hMsQuOkrut0C:
@@ -630,7 +630,7 @@ papers:
     title: Relativistic electron flux model in the outer radiation belt using a neural network approach
     year: '2021'
   1BAsT6sAAAAJ:k_IJM867U9cC:
-    citations: 85
+    citations: 86
     title: The mid-latitude positive bay and the MPB index of substorm activity
     year: '2017'
   1BAsT6sAAAAJ:kz9GbA2Ns4gC:
@@ -798,7 +798,7 @@ papers:
     title: 'Modeling global electron precipitation driven by whistler mode waves: Integrating physical and deep learning approaches'
     year: '2024'
   1BAsT6sAAAAJ:vRqMK49ujn8C:
-    citations: 12
+    citations: 13
     title: Ionospheric electron density and conductance changes in the auroral zone during substorms
     year: '2021'
   1BAsT6sAAAAJ:vV6vV6tmYwMC:
