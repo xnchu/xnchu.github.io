@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-31'
+  last_updated: '2026-09-07'
 papers:
   1BAsT6sAAAAJ:-_dYPAW6P2MC:
     citations: 1
@@ -66,7 +66,7 @@ papers:
     title: 'LIME in Local Time: The Magnetosphere Acting Impulsively'
     year: '2018'
   1BAsT6sAAAAJ:4fKUyHm3Qg0C:
-    citations: 83
+    citations: 84
     title: Relativistic electron model in the outer radiation belt using a neural network approach
     year: '2021'
   1BAsT6sAAAAJ:5Ul4iDaHHb8C:
@@ -138,7 +138,7 @@ papers:
     title: Characteristics of plasmaspheric dynamics studied using machine learning models
     year: '2024'
   1BAsT6sAAAAJ:CHSYGLWDkRkC:
-    citations: 46
+    citations: 47
     title: "Optical spectra and emission altitudes of double\u2010layer STEVE: A case study"
     year: '2019'
   1BAsT6sAAAAJ:D_sINldO8mEC:
@@ -266,7 +266,7 @@ papers:
     title: Current structures associated with dipolarization fronts
     year: '2013'
   1BAsT6sAAAAJ:Mojj43d5GZwC:
-    citations: 48
+    citations: 49
     title: The space physics environment data analysis system in python
     year: '2022'
   1BAsT6sAAAAJ:N5tVd3kTz84C:
@@ -470,7 +470,7 @@ papers:
     title: Can MHD be used to forecast substorms?
     year: '2018'
   1BAsT6sAAAAJ:a0OBvERweLwC:
-    citations: 51
+    citations: 52
     title: Identifying STEVE's magnetospheric driver using conjugate observations in the magnetosphere and on the ground
     year: '2019'
   1BAsT6sAAAAJ:abG-DnoFyZgC:
@@ -586,7 +586,7 @@ papers:
     title: 'AI-Driven Advances in Physical Insights: Exploring the Near-Earth Space Environment'
     year: '2025'
   1BAsT6sAAAAJ:hC7cP41nSMkC:
-    citations: 97
+    citations: 98
     title: Substorm current wedge composition by wedgelets
     year: '2015'
   1BAsT6sAAAAJ:hFOr9nPyWt4C:
@@ -738,7 +738,7 @@ papers:
     title: 'Substorm dynamics in MHD: Statistical validation tests and paths for improvement'
     year: '2021'
   1BAsT6sAAAAJ:tS2w5q8j5-wC:
-    citations: 45
+    citations: 47
     title: "Modeling the dynamic variability of sub\u2010relativistic outer radiation belt electron fluxes using machine learning"
     year: '2022'
   1BAsT6sAAAAJ:tYavs44e6CUC:
